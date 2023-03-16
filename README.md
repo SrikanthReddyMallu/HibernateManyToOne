@@ -1,0 +1,2 @@
+# HibernateManyToOne
+ManyToOne
